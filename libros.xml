@@ -8,6 +8,6 @@
   <libro paginas="500">
     <titulo>Cien años de soledad</titulo>
   <autor>Gabriel Garcia Marquez</autor>
-  <editorial>Oveja negra</editorial>
+  <editorial>Oveja negra, editorial no existene</editorial>
 </libro>
 </libros>
